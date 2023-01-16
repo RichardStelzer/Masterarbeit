@@ -26,8 +26,13 @@ Der Datenaustausch zwischen dem lokalen System, dem Webserver und der Crowdsourc
 
 ### Admin-Webinterface
 
-Das Webinterface ist im Ordner ```admin_webinterface``` zu finden und basiert auf den Standard Webtechnologien HTML, JS und PHP. Das Interface ermöglicht dem Admin die Überprüfung von Erfassungen. Der Ablauf ist in dem folgenden GIF dargestellt:
+Das Webinterface ist im Ordner ```admin_webinterface``` zu finden und basiert auf den Standard Webtechnologien HTML, JS und PHP. Das Interface ermöglicht die Überprüfung von Erfassungen durch den Admin. Der Ablauf ist im folgenden dargestellt:
+1. Erfassungen (Rote Linien) eines unsicheren Clusters (Blauer Kreis) werden im zugehörigen Bildausschnitt dargestellt.
+2. Der Administrator entscheidet ob das Cluster ein Fahrzeug markiert.
+3. Wenn es sich um ein Fahrzeug handelt, erfasst der Administrator manuell das Fahrzeug neu und setzt damit eine Referenzerfassung (Gelbe Linie). Diese wird später als Vergleichswert verwendet, um zu entscheiden, ob eine einzelne Erfassung des dargestellten Clusters korrekt oder inkorrekt ist.
 
 <p align="center">
 <img src="./assets/admininterface.gif" alt="admininterface.gif" width="900"/>
 </p>
+
+
