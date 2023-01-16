@@ -26,4 +26,8 @@ Der Datenaustausch zwischen dem lokalen System, dem Webserver und der Crowdsourc
 
 ### Admin-Webinterface
 
-Das Webinterface ist im Ordner ```admin_webinterface``` zu finden und basiert auf den Standard Webtechnologien HTML, JS und PHP. Das Interface ermöglicht dem Admin die Überprüfung von Erfassungen.
+Das Webinterface ist im Ordner ```admin_webinterface``` zu finden und basiert auf den Standard Webtechnologien HTML, JS und PHP. Das Interface ermöglicht dem Admin die Überprüfung von Erfassungen. Der Ablauf ist in dem folgenden GIF dargestellt:
+
+<p align="center">
+<img src="./assets/admininterface.gif" alt="admininterface.gif" width="900"/>
+</p>
