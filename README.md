@@ -1,7 +1,5 @@
 # Masterarbeit
-Dieses Verzeichnis enthält ein paar Sourcecodeausschnitte meiner Masterarbeit (Titel: "Entwicklung einer vollautomatisierten Pipeline zur qualitativ hochwertigen Erfassung von Fahrzeugen"). Zugrunde liegende Bilddaten sind nicht Teil des Verzeichnisses.
-
-Eine Zusammenfassung mit Bildmaterial gibt es auf der Institutswebsite &rarr; [Link zu Webpräsentation](https://www.ifp.uni-stuttgart.de/lehre/masterarbeiten/615-Stelzer2/).
+Dieses Verzeichnis enthält ein paar Sourcecodeausschnitte meiner Masterarbeit (Titel: "Entwicklung einer vollautomatisierten Pipeline zur qualitativ hochwertigen Erfassung von Fahrzeugen"). Eine Zusammenfassung mit Bildmaterial gibt es auf der Institutswebsite &rarr; [Link zu Webpräsentation](https://www.ifp.uni-stuttgart.de/lehre/masterarbeiten/615-Stelzer2/).
 
 ### Kurzfassung:
 
